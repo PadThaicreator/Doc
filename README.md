@@ -13,3 +13,8 @@ https://drive.google.com/drive/folders/1cvnAQ6Nm-3M31P5sZhGxEZtPuPsz3lDX?usp=sha
 
 - ส่งเอกสารสหกิจที่ต้องส่งคืนภาควิชาภายใน 3 สัปดาห์แรก
 https://drive.google.com/drive/u/1/folders/1cUzinZVTx8EdlOSDucgXYEnZlGCf1ZVC
+
+
+07
+
+https://docs.google.com/document/d/1UFy2T1l2lv5X3xTd6KYIzuLg0UJhR8K_/edit?usp=drivesdk&ouid=105398373099109817427&rtpof=true&sd=true
