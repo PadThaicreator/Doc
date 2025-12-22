@@ -1,8 +1,8 @@
 # Doc
 
 NodeJS and Angular Version For Priject 
-Angular CLI: 12.2.18
-Node: 14.21.3
+- Angular CLI: 12.2.18
+- Node: 14.21.3
  
 
 1.	พี่ปู= นายธีรรัฐ จรัสสิริกุลชัย Senior Manager (ISA Department)
