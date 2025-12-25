@@ -23,3 +23,7 @@ https://drive.google.com/drive/u/1/folders/1cUzinZVTx8EdlOSDucgXYEnZlGCf1ZVC
 07
 
 https://docs.google.com/document/d/1UFy2T1l2lv5X3xTd6KYIzuLg0UJhR8K_/edit?usp=drivesdk&ouid=105398373099109817427&rtpof=true&sd=true
+
+
+-- Nested Drag
+https://stackblitz.com/edit/angular-cdk-nested-drag-drop-tree-structure-zrvnnj?file=src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fsub-item%2Fsub-item.component.ts,src%2Fapp%2Fapp.component.html,src%2Fapp%2Fsub-item%2Fsub-item.component.css
